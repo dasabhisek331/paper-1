@@ -1,2 +1,4 @@
-# paper-1
-Ostracism: A pervasive social phenomenon
+# Ostracism: A pervasive social phenomenon
+This repository contains the complete research paper on ostracism, including an in-depth literature review, detailed analysis of causes and effects, and suggested coping mechanisms and interventions. The goal is to contribute to the understanding and mitigation of ostracism, ultimately fostering more inclusive environments.
+
+Ostracism, the deliberate exclusion or ignoring of individuals or groups, is a powerful social phenomenon with profound psychological and emotional impacts. This research explores its historical roots, modern instances, and the complex interplay of social and psychological factors that contribute to its occurrence. By analyzing the causes and effects of ostracism and outlining effective coping mechanisms and interventions, this study aims to shed light on strategies for fostering more inclusive and supportive environments, ultimately mitigating the negative consequences of social exclusion.
